@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+/*aparelho deitado landscape*/
+
+
+body {
+    font-size: 15px;
+}
+
+nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+img {
+    height: 70px;
+}
